@@ -10,7 +10,7 @@
 | Ultrasonic Sensor HC-SR04   | 1   | Obstacle detection             |
 | TCS3200 Color Sensor        | 1   | Red/green detection            |
 | Buck Converter 5 V (≥3 A)   | 1   | Stable 5 V supply              |
-| Li-ion Battery Pack 7.4 V   | 1   | Main power source              |
+| Li-ion Battery Pack 7.4 V   | 2   | Main power source              |
 | Breadboard + Jumper Wires   | –   | Signal & power distribution    |
 | Chassis, wheels, linkage    | –   | Mechanical structure           |
 | Capacitors 470–1000 µF      | 2   | Servo power smoothing          |
