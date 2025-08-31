@@ -1,4 +1,12 @@
-Vehicle's photos
-====
+# Vehicle Photos
 
-This directory must contain 6 photos of the vehicle (from every side, from top and bottom)
+Six required views of the vehicle:
+
+- **Front view**  
+- **Back view**  
+- **Left view**  
+- **Right view**  
+- **Top view**  
+- **Bottom view**
+
+*(Photos uploaded in this folder)*
